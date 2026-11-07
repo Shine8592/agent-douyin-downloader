@@ -1,0 +1,28 @@
+# 下载产物
+*.mp4
+*.webm
+*.flv
+douyin/
+downloads/
+
+# 浏览器 profile / cookie（绝不入库）
+*.cookie*
+*.txt.bak
+cookies*.txt
+browser/
+.douyin-downloader/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*~

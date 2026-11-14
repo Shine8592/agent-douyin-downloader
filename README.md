@@ -1,3 +1,6 @@
+> ⚠️ **本仓库已迁移并归档** → 请使用 [Shine8592/douyin-downloader](https://github.com/Shine8592/douyin-downloader)
+> 新版本修复了占位素材 `uuu_265.mp4` 陷阱（MSE 取源 + 同标签页暖首页）。
+
 # agent-douyin-downloader
 
 **抖音视频下载器 · 给 AI Agent 用** — Download public Douyin videos through a real headful Chromium. No login, no API signature, no yt-dlp.
